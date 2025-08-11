@@ -83,8 +83,8 @@ const mockCandidates: Candidate[] = [
     slogan: "Building Tomorrow Together",
     biography:
       "Sarah Johnson is a dedicated public servant with over 15 years of experience in community organizing and policy development. She holds a Master's degree in Public Administration from State University and has worked tirelessly to improve education, healthcare, and economic opportunities in our district. As a former school board member and city council representative, Sarah has a proven track record of bringing people together to solve complex problems.",
-    profileImage: "/placeholder.svg?height=200&width=200&text=Sarah+Johnson",
-    bannerImage: "/placeholder.svg?height=400&width=800&text=Sarah+Johnson+Campaign",
+    profileImage: "/avt1.svg?height=200&width=200&text=Sarah+Johnson",
+    bannerImage: "/avt1.svg?height=400&width=800&text=Sarah+Johnson+Campaign",
     policies: [
       "Increase funding for public education by 25% over the next four years",
       "Implement universal healthcare coverage for all residents",
@@ -172,8 +172,8 @@ const mockCandidates: Candidate[] = [
     slogan: "Strength Through Unity",
     biography:
       "Robert Martinez brings 20 years of business leadership and military service to public office. A decorated veteran and successful entrepreneur, Robert understands the importance of fiscal responsibility, strong defense, and limited government. He has built three successful companies, creating over 500 jobs in our community, and served two tours of duty overseas defending our freedoms.",
-    profileImage: "/placeholder.svg?height=200&width=200&text=Robert+Martinez",
-    bannerImage: "/placeholder.svg?height=400&width=800&text=Robert+Martinez+Campaign",
+    profileImage: "/avt2.svg?height=200&width=200&text=Robert+Martinez",
+    bannerImage: "/avt2.svg?height=400&width=800&text=Robert+Martinez+Campaign",
     policies: [
       "Reduce government spending by 15% through efficiency improvements",
       "Strengthen border security and immigration enforcement",
@@ -261,8 +261,8 @@ const mockCandidates: Candidate[] = [
     slogan: "Science-Based Solutions",
     biography:
       "Dr. Amanda Foster is a renowned environmental scientist and policy expert with a Ph.D. in Environmental Engineering from MIT. She has spent her career developing innovative solutions to climate change and environmental challenges. As an independent candidate, Dr. Foster brings a data-driven approach to governance, focusing on evidence-based policies that benefit all citizens regardless of party affiliation.",
-    profileImage: "/placeholder.svg?height=200&width=200&text=Dr.+Amanda+Foster",
-    bannerImage: "/placeholder.svg?height=400&width=800&text=Dr.+Foster+Campaign",
+    profileImage: "/avt3.svg?height=200&width=200&text=Dr.+Amanda+Foster",
+    bannerImage: "/avt3.svg?height=400&width=800&text=Dr.+Foster+Campaign",
     policies: [
       "Implement carbon-neutral energy grid by 2030",
       "Invest $1B in climate resilience infrastructure",
